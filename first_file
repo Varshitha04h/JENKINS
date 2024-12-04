@@ -1,1 +1,2 @@
-print("Hi, this line is from github file")
+print("This is before poll scm")
+print("This is when  poll scm is selected ")
